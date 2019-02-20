@@ -11,7 +11,7 @@ An interactive shopping experience using node & mysql.  This is the first portio
 5. ctrl C to exit
 
 ## Images of how it works
-(assets/bamazon1.png)
+!(../bamazon1.png)
 
-(assets/bamazon2.png)
+!(../bamazon2.png)
 
