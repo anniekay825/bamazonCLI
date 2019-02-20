@@ -1,0 +1,30 @@
+{
+  "name": "bamazoncli",
+  "version": "1.0.0",
+  "description": "storefont using mysql and node.js",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anniekay825/bamazonCLI.git"
+  },
+  "author": "Kathleen Winningham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anniekay825/bamazonCLI/issues"
+  },
+  "homepage": "https://github.com/anniekay825/bamazonCLI#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "cli-table-redemption": "^1.0.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "node": "^11.9.0",
+    "prompt": "^1.0.0",
+    "table": "^5.2.3"
+  }
+}
