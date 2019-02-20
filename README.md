@@ -11,7 +11,7 @@ An interactive shopping experience using node & mysql.  This is the first portio
 5. ctrl C to exit
 
 ## Images of how it works
-!(../bamazon1.png)
+(https://github.com/anniekay825/bamazonCLI/blob/master/assets/bamazon1.PNG)
 
-!(../bamazon2.png)
+(https://github.com/anniekay825/bamazonCLI/blob/master/assets/bamazon2.PNG)
 
