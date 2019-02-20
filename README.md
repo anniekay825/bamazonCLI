@@ -10,3 +10,8 @@ An interactive shopping experience using node & mysql.  This is the first portio
 4. you will get a confirmation of the purchase, along with cost and estimated shipping
 5. ctrl C to exit
 
+## Images of how it works
+(assets/bamazon1.png)
+
+(assets/bamazon2.png)
+
