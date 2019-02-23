@@ -1,0 +1,11 @@
+item_id,product_name,department_name,price,stock_quantity
+1,"Logitech Wireless Mouse",Electronics,8,15
+2,"Viva Select-a-Size Paper Towels 12pk",Housewares,15,75
+3,"Hershey's Reese's Peanut Butter Mini's 24pk",Grocery,5,180
+4,"Gain Laundry Pods 50ct",Housewares,12,25
+5,"Borax Laundry Whitener",Housewares,4,25
+6,"Hershey's Kisses 12oz",Grocery,5,150
+7,"Twizzler's 18oz",Grocery,5,80
+8,"Bamazon Basics Lightning Cord 6'",Electronics,15,20
+9,"Bamazon Basics Lightning Cord 10'",Electronics,25,20
+10,"Haribo Gummy Bears 64oz",Grocery,10,50
